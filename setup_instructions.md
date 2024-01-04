@@ -1,6 +1,6 @@
-# Setup Instructions for CodeCrafters Training Session
+# Setup Instructions for Pixel To Code Training Session
 
-Welcome to the CodeCrafters training session! To ensure you are fully prepared for the coding exercises and debugging challenges, please follow these setup instructions.
+Welcome to the Pixel To Code training session! To ensure you are fully prepared for the coding exercises and debugging challenges, please follow these setup instructions.
 
 ---
 

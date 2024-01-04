@@ -1,6 +1,6 @@
-# Contributing to CodeCrafters Training Session Repository
+# Contributing to Pixel To Code Training Session Repository
 
-We welcome contributions to the CodeCrafters Training Session repository! Whether you're looking to fix bugs, improve the documentation, or add new features, your input is valuable. Please follow these guidelines to contribute effectively to this project.
+We welcome contributions to the Pixel To Code Training Session repository! Whether you're looking to fix bugs, improve the documentation, or add new features, your input is valuable. Please follow these guidelines to contribute effectively to this project.
 
 ---
 
@@ -40,8 +40,8 @@ If you find bugs or have suggestions, please use the GitHub issue tracker to rep
 
 ## Questions?
 
-If you have any questions or need assistance, feel free to reach out to the project maintainers. We're here to help and appreciate your interest in improving the CodeCrafters Training Session repository.
+If you have any questions or need assistance, feel free to reach out to the project maintainers. We're here to help and appreciate your interest in improving the Pixel To Code Training Session repository.
 
 ---
 
-Thank you for your interest in contributing to the CodeCrafters Training Session. Your efforts help make this a better resource for everyone involved!
+Thank you for your interest in contributing to the Pixel To Code Training Session. Your efforts help make this a better resource for everyone involved!

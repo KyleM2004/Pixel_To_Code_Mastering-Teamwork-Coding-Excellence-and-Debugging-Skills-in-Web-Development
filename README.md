@@ -1,6 +1,6 @@
-# CodeCrafters: Mastering Teamwork, Coding Excellence, and Debugging Skills in Web Development
+# Pixel To Code: Mastering Teamwork, Coding Excellence, and Debugging Skills in Web Development
 
-Welcome to the CodeCrafters training session! This workshop is designed to enhance your skills in teamwork, writing maintainable code, and debugging - essential skills for any aspiring web developer working on projects like our Online Bookstore Platform.
+Welcome to the Pixel To Code training session! This workshop is designed to enhance your skills in teamwork, writing maintainable code, and debugging - essential skills for any aspiring web developer working on projects like our Online Bookstore Platform.
 
 ## Session Overview
 
@@ -51,4 +51,4 @@ Please ensure you have the following set up before the session:
 
 Your feedback is valuable to us! At the end of the session, please take a moment to complete the feedback form provided. Your insights will help us improve future workshops.
 
----# CodeCrafters_Mastering-Teamwork-Coding-Excellence-and-Debugging-Skills-in-Web-Development
+---# Pixel To Code_Mastering-Teamwork-Coding-Excellence-and-Debugging-Skills-in-Web-Development

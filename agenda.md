@@ -1,6 +1,6 @@
-# CodeCrafters Session Agenda: Online Bookstore Platform Development
+# Pixel To Code Session Agenda: Online Bookstore Platform Development
 
-Welcome to the CodeCrafters training session! Here is the agenda for our 5-hour workshop, designed to enhance your skills in teamwork, coding, and debugging.
+Welcome to the Pixel To Code training session! Here is the agenda for our 5-hour workshop, designed to enhance your skills in teamwork, coding, and debugging.
 
 ---
 
